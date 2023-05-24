@@ -1,0 +1,38 @@
+/* selector{
+    propiedad:valor;
+} */
+
+body{
+    background-color: rgb(219, 219, 219);
+}
+
+main{
+    background-color: white;
+}
+
+footer{
+    background-color: rgb(44, 67, 117);
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    background-color: rgb(172, 172, 172);
+    text-align: center;
+}
+
+h2{
+    background-color: rgba(172, 172, 172, 0.5);
+}
+
+
+.imagenCentrada{
+    text-align: center;
+}
+
+.espacioBlanco{
+    background-color: white;
+}
+
+.identado{
+    text-indent: 80px;
+}
