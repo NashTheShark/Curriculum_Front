@@ -1,13 +1,26 @@
-/* selector{
-    propiedad:valor;
-} */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+header{
+    text-align: center;
+    color: rgb(37, 37, 37);
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('../img/fondo_banner.JPG');
+}
+
+.navegacion{
+    background-color: rgb(185, 185, 185);
+}
 
 body{
-    background-color: rgb(219, 219, 219);
+    color: rgb(37, 37, 37);
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(163, 163, 163);
 }
 
 main{
-    background-color: white;
+    background-color: rgb(185, 185, 185);
 }
 
 footer{
@@ -21,16 +34,8 @@ h1{
 }
 
 h2{
-    background-color: rgba(172, 172, 172, 0.5);
-}
-
-
-.imagenCentrada{
+    background-color: rgba(104, 104, 104, 0.5);
     text-align: center;
-}
-
-.espacioBlanco{
-    background-color: white;
 }
 
 .identado{
